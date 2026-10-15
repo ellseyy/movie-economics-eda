@@ -22,7 +22,8 @@ A quantitative exploratory data analysis investigating capital allocation effici
 - **Status:** Validated
 - **Insight:** Audience rating (`vote_average`) demonstrates near-zero linear correlation with box office gross (**0.17**), decoupling perceived quality from commercial scale.
 - **Reach Proxy:** Review volume (`vote_count`) strongly tracks theatrical gross (**0.76**), confirming that box office scales with top-of-funnel marketing reach rather than post-watch satisfaction.
-<!-- ![H2 Rating Quadrant Analysis](assets/h2_rating_quadrants.png) -->
+<img width="751" height="466" alt="Снимок экрана 2026-10-15 в 11 44 17 AM" src="https://github.com/user-attachments/assets/04f91ec1-d37b-4115-baf5-d52c59efeadf" />
+
 
 ### 3. Genre Market Dominance & Prime Eras (H3)
 - **Status:** Validated
@@ -30,14 +31,16 @@ A quantitative exploratory data analysis investigating capital allocation effici
   - **Action Ascent:** Peaked at **29.1%** in **1994** (*True Lies*), establishing long-term dominance via global spectacle.
   - **Drama Contraction:** Peaked at **26.2%** in **2006** (*The Pursuit of Happyness*) before storytelling migrated to prestige streaming/TV.
   - **Survivorship Bias:** Pre-1990 ratings are mathematically inflated due to curation bias in digital archives.
-<!-- ![H3 Genre Trends](assets/h3_genre_trends.png) -->
+<img width="753" height="378" alt="Снимок экрана 2026-10-15 в 11 44 45 AM" src="https://github.com/user-attachments/assets/37b56940-8ebe-4e39-ba65-1b3d880c377b" />
+
 
 ### 4. Theatrical Seasonality & "Dump Months" (H4)
 - **Status:** Validated
 - **Insight:** A **4.08x revenue spread** exists between prime theatrical windows and dead zones:
   - **Peak Window:** June leads all months with a median revenue of **112.3M**, followed by December (**93.7M**).
   - **Dump Month:** September forms the deepest trough with a median gross of only **27.5M**.
-<!-- ![H4 Seasonality Ranking](assets/h4_seasonality_ranking.png) -->
+<img width="751" height="403" alt="Снимок экрана 2026-10-15 в 11 45 26 AM" src="https://github.com/user-attachments/assets/32208863-cd2e-4ba0-8194-4aa4f0bc4861" />
+
 
 ## Feature Engineering Pipeline
 
